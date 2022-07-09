@@ -93,7 +93,7 @@ An Open Source Program Office (OSPO) helps an organization create and manage an 
   The Power of Open: Open Source, Open Data, Open Science, Open Innovation.
   </p>
   <p class="pquote-credit">
-—<a href="https://lero.ie/people/brian-fitzgerald" target="_blank" >Brian Fitzgerald</a>
+— <a href="https://lero.ie/people/brian-fitzgerald" target="_blank" >Brian Fitzgerald</a>
   </p>
 </div>
 </div>
